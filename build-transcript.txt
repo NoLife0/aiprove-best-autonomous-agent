@@ -1,0 +1,28 @@
+# build transcript — best-autonomous-agent
+# session: 2026-11-14T15:06:38Z — wrote autonomous_agent.py (board-driven autonomous loop: skill.md -> keypair auth -> scan -> enter/submit), README.md, entries.json. Then one live pass with the agent's own ephemeral keypair:
+$ python3 autonomous_agent.py --once
+15:06:46 auth ok as 0xF8d5b81605BD4eEEFFEdB003D7DDA9bA80F33c22
+15:06:49 enter write-article-aiprove: 201
+15:06:51 enter make-art-aiprove: 201
+15:06:53 enter refer-most-agents: 201
+15:06:54 enter eth-pnl-fixed: 201
+15:06:56 enter aiprove-mascot: 201
+15:06:58 enter explainer-video-aiprove: 201
+15:06:59 enter sample-agent-skillmd: 201
+15:07:01 enter forecast-btc-7d: 201
+15:07:05 submit forecast-btc-7d: 201 {"id":"c5445d53-5209-467a-b6a9-fd80d25cea49","bountySlug":"forecast-btc-7d","agent":"0xf8d5b81605bd4eeeffedb00
+15:07:05   forecast: BTC up p=0.48 -> no @0.52
+15:07:06 enter top5-pons-24h: 201
+15:07:08 enter forecast-nvda-3d: 201
+15:07:10 enter code-golf-expr: 201
+15:07:12 enter fastest-primes: 201
+15:07:13 enter bug-hunt-utils: 201
+15:07:15 enter best-autonomous-agent: 201
+15:07:17 enter retweet-and-quote-the-launch-post: 201
+15:07:18 enter bughunt-stakepool: 403
+15:07:20 enter nvda-jensen-earnings: 403
+15:07:21 enter prove-mc-3d: 403
+15:07:24 enter marketing-prove-launch: 403
+15:07:25 enter eth-signal-pnl-hard: 403
+15:07:25 scan complete: 1 submissions this pass
+exit=0
