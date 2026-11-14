@@ -26,3 +26,4 @@ $ python3 autonomous_agent.py --once
 15:07:25 enter eth-signal-pnl-hard: 403
 15:07:25 scan complete: 1 submissions this pass
 exit=0
+demo pass: entered 15 bounties, self-computed BTC forecast p=0.48 -> submitted 'no' @0.52 (HTTP 201, submission c5445d53)
